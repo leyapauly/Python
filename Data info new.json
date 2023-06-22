@@ -1,0 +1,101 @@
+{
+    "Al": {
+            "Z": 13,
+            "Mass": 26.98154,
+            "IonizationEnergy": [5.985769, 18.82855]
+        },
+    "Mg": {
+            "Z": 12,
+            "Mass": 24.305,
+            "IonizationEnergy": [7.646236, 15.035271]
+        },
+     "Au": {
+            "Z": 79,
+            "Mass":196.9665,
+            "IonizationEnergy": [9.22555,20.203]
+     "Ag": {
+            "Z": 47,
+            "Mass":107.8682,
+            "IonizationEnergy": [7.57623,21.4844]
+        }
+    "Si": {
+            "Z": 14,
+            "Mass": 28.0855,
+            "IonizationEnergy": [8.15168, 16.34585]
+        },
+    "Ti": {
+            "Z": 22,
+            "Mass": 47.867,
+            "IonizationEnergy": [6.828120, 13.5755]
+        },
+    "Ca": {
+            "Z": 20,
+            "Mass": 40.08,
+            "IonizationEnergy": [6.11315547, 11.871719]
+        },
+    "O": {
+            "Z": 8,
+            "Mass": 15.999,
+            "IonizationEnergy": [13.618055, 35.12112]
+        },
+    "Na": {
+            "Z": 11,
+            "Mass": 22.99,
+            "IonizationEnergy": [5.13907696, 47.28636]
+        },
+    "K": {
+            "Z": 19,
+            "Mass": 39.0983,
+            "IonizationEnergy": [4.34066373, 31.62500]
+        },
+    "Mn": {
+            "Z": 25,
+            "Mass": 54.938045,
+            "IonizationEnergy": [7.4340380, 15.63999]
+        },
+    "H": {
+            "Z": 1,
+            "Mass": 1.008,
+            "IonizationEnergy": [13.598434599702, 0]
+        },
+    "Cr": {
+            "Z": 24,
+            "Mass": 51.9961,
+            "IonizationEnergy": [6.76651, 16.486305]
+        },
+    "Co": {
+            "Z": 27,
+            "Mass": 58.9332,
+            "IonizationEnergy": [7.88101, 17.0844]
+        },
+    "Mo": {
+            "Z": 42,
+            "Mass": 95.95,
+            "IonizationEnergy": [7.09243, 16.16]
+        },
+    "Fe": {
+            "Z": 26,
+            "Mass": 55.847,
+            "IonizationEnergy": [7.9024681, 16.19921]
+        },
+    "Sr": {
+            "Z": 38,
+            "Mass": 87.62,
+            "IonizationEnergy": [5.69486745, 11.0302765]
+        },
+    "Cu": {
+            "Z": 29,
+            "Mass": 63.546,
+            "IonizationEnergy": [7.72638, 20.29239]
+        },    
+    "Zn": {
+            "Z": 30,
+            "Mass": 65.38,
+            "IonizationEnergy": [9.394197, 17.96439]
+        },
+    "Sn": {
+            "Z": 50,
+            "Mass": 118.69,
+            "IonizationEnergy": [7.343918,14.63307]
+        }
+}
